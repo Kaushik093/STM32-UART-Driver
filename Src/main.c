@@ -27,7 +27,6 @@ int main(void){
 		}
 		else{
 			GPIOA->ODR &= ~LED_PIN;
-
 		}
 //		printf("Hello I am Kaushik \n\r");
 	}
